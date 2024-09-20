@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'custom-bg': "url('./images/about.jpg')", 
+        'custom-bg': "url('./images/trans-bg')", 
       },
       fontFamily: {
         segoe: ['Segoe UI', 'Arial', 'sans-serif'],
