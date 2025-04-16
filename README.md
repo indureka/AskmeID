@@ -9,7 +9,6 @@ AskmeID is a modern, responsive landing page built with HTML5 and CSS3. This pro
 4. Smooth Navigation: Intuitive and easy-to-use navigation bar for better user experience.
 5. CSS Animations: Includes smooth hover effects and transitions for a polished and interactive UI.
 
-
 ## Technologies Used
 
 1. HTML5: Markup for structuring the content.
